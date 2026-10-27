@@ -5,8 +5,8 @@ import 'package:vize/vize.dart';
 
 Widget arrowLeft() {
   return Container(
-    width: 40.fw,
-    height: 40.fh,
+    width: 10.fw,
+    height: 16.fh,
     decoration: BoxDecoration(
       shape: BoxShape.circle,
       boxShadow: [
@@ -19,8 +19,8 @@ Widget arrowLeft() {
     ),
     child: SvgPicture.asset(
       'icons/arrow_left.svg',
-      width: 40.fw,
-      height: 40.fh,
+      width: 7.fw,
+      height: 14.fh,
     ),
   );
 }

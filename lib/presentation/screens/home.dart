@@ -92,7 +92,7 @@ class _HomeScreenState extends State<HomeScreen> {
                             shape: BoxShape.circle,
                             boxShadow: [BoxShadow(color: AppColors.black.withOpacity(0.05), blurRadius: 10, offset: const Offset(0, 5))],
                           ),
-                          child: SvgPicture.asset('assets/icons/driver.svg'),
+                          child: SvgPicture.asset('assets/icons/drawer.svg'),
                         ),
                       ),
                       Spacer(),

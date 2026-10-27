@@ -1,5 +1,5 @@
 name: checkpoint
-description: "Приложение для конкурса"
+description: "Приложение для студенческой научно-практической конференции Я - Специалист."
 publish_to: 'none'
 
 version: 1.0.0+1
